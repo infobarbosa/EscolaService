@@ -1,0 +1,32 @@
+#surefire
+#Wed Nov 20 22:35:53 BRST 2013
+testClassesDirectory=/Users/barbosa/projetos/EscolaService/target/test-classes
+classPathUrl.4=/Users/barbosa/.m2/repository/asm/asm/3.1/asm-3.1.jar
+classPathUrl.3=/Users/barbosa/.m2/repository/com/sun/jersey/jersey-server/1.8/jersey-server-1.8.jar
+classPathUrl.2=/Users/barbosa/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar
+useManifestOnlyJar=true
+classPathUrl.1=/Users/barbosa/projetos/EscolaService/target/classes
+reportsDirectory=/Users/barbosa/projetos/EscolaService/target/surefire-reports
+classPathUrl.0=/Users/barbosa/projetos/EscolaService/target/test-classes
+dirscanner.0=directoryScannerOptions
+providerConfiguration=org.apache.maven.surefire.junit.JUnit3Provider
+testSuiteDefinitionTestSourceDirectory=/Users/barbosa/projetos/EscolaService/src/test/java
+surefireClassPathUrl.1=/Users/barbosa/.m2/repository/org/apache/maven/surefire/surefire-api/2.7.1/surefire-api-2.7.1.jar
+surefireClassPathUrl.0=/Users/barbosa/.m2/repository/org/apache/maven/surefire/surefire-junit3/2.7.1/surefire-junit3-2.7.1.jar
+report.2=org.apache.maven.surefire.report.XMLReporter
+useSystemClassLoader=true
+report.1=org.apache.maven.surefire.report.BriefFileReporter
+report.0=org.apache.maven.surefire.report.ForkingConsoleReporter
+excludes0=**/*$*
+isTrimStackTrace=true
+dirscanner.0.params=/Users/barbosa/projetos/EscolaService/target/test-classes|[**/Test*.java, **/*Test.java, **/*TestCase.java]|[**/*$*]
+includes2=**/*TestCase.java
+enableAssertions=true
+includes1=**/*Test.java
+failIfNoTests=false
+includes0=**/Test*.java
+dirscanner.0.types=java.io.File|java.util.ArrayList|java.util.ArrayList
+classPathUrl.7=/Users/barbosa/.m2/repository/log4j/log4j/1.2.14/log4j-1.2.14.jar
+childDelegation=false
+classPathUrl.6=/Users/barbosa/.m2/repository/mysql/mysql-connector-java/5.1.25/mysql-connector-java-5.1.25.jar
+classPathUrl.5=/Users/barbosa/.m2/repository/com/sun/jersey/jersey-core/1.8/jersey-core-1.8.jar
